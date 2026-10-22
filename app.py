@@ -8,7 +8,7 @@ import streamlit as st
 
 st.title("House Price Prediction System")
 
-st.write("Made during the summer internship at BIT sindri by Saikat Mukherjee")
+st.write("Made during the 5th sem ai/ml mini project under the guidance of sir, Kalyan paul ")
 
 
 
